@@ -72,8 +72,6 @@ Ensure proper placement of components to minimize signal path lengths and reduce
 - Ensure your design complies with local laws and regulations regarding the use of RF jammers.
 - Use the device responsibly and only for educational or authorized purposes.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 Special thanks to the resources and community at EasyEDA for providing the tools and support to complete this project.
