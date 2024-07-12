@@ -1,5 +1,3 @@
-# Pocket-jammer
-Sure, here’s the text for your `README.md` file:
 
 ---
 
